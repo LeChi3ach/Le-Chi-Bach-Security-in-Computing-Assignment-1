@@ -1,3 +1,6 @@
+# This code was done with with the instruction of AI model Gemini
+# "How to perform [Cryptographic algorithm] in python?", Gemini, Google, Nov 2026, google.com.
+
 import os
 import hashlib
 import time
